@@ -1,7 +1,0 @@
-gerencia,senha
-BG16F,leonardo1234
-BG16J,marcos1234
-BG24B,felipesoares1234
-BG24R,felipecunha1234
-BGE,gervasone1234
-senhas
