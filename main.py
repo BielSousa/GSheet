@@ -1,6 +1,6 @@
 from gsheet import GSheet
 
-PLAN = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRfwMNIJOSi-1BJ0ohLecIO3chCTHOmgi4FSzVnSH7XJm-XeCaci18rquS1fCzQK11NqXVnSqbklmrf/pubhtml'
+PLAN = 'https://docs.google.com/spreadsheets/d/e/your_key_sheet/pubhtml'
 
 tabela = GSheet(PLAN)
 tabela.select_table('senhas')
